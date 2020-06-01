@@ -1,6 +1,6 @@
 ---
-title: "We love testing. Do you?"
-subtitle: DevOps is the future - join us
+title: "We love testing."
+subtitle: Seamlessly powered by DevOps 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kerry?
