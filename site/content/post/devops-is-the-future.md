@@ -1,6 +1,6 @@
 ---
 title: DevOps is the Future
-date: 2020-06-01T12:55:52.653Z
+date: 2020-06-01T14:53:09.002Z
 description: Why DevOps is changing the world for the better.
 image: img/binary-1536651_640.jpg
 ---
