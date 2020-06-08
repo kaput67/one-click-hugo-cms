@@ -1,6 +1,6 @@
 ---
 title: "We love testing."
-subtitle: Seamlessly powered by DevOps 
+subtitle: Powered by DevOps 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kerry?
