@@ -5,7 +5,8 @@ contact_entries:
   - heading: Location
     text: "London  United Kingdom"
   - heading: Working hours
-    text: "Monday – Friday: 9AM – 5PM  I'm' closed at the weekend :-)"
+    text: "Monday – Friday: 9AM – 5PM
+    I'm' closed at the weekend :-)"
 ---
 
 I'd love to get in touch with you and hear your ideas and
